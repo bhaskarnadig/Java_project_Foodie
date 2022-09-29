@@ -133,6 +133,7 @@ public class Program {
         
         HibernatePersistence.getSessionFactory().close();
 
+        System.out.println("Bhaskar Nadig");
 	}
 
 }
